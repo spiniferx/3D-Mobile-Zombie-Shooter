@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 8452a817dd8913e40bc0f00a454fc032
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: forearm.l
+    100004: forearm.r
+    100006: Hand.l
+    100008: Hand.r
+    100010: hand_index.l
+    100012: hand_index.r
+    100014: hand_middle.l
+    100016: hand_middle.r
+    100018: hand_pinky.l
+    100020: hand_pinky.r
+    100022: hand_ring.l
+    100024: hand_ring.r
+    100026: hand_thumb.l
+    100028: hand_thumb.r
+    100030: Hands
+    100032: //RootNode
+    100034: index_1.l
+    100036: index_1.r
+    100038: index_2.l
+    100040: index_2.r
+    100042: index_3.l
+    100044: index_3.l_end
+    100046: index_3.r
+    100048: index_3.r_end
+    100050: middle_1.l
+    100052: middle_1.r
+    100054: middle_2.l
+    100056: middle_2.r
+    100058: middle_3.l
+    100060: middle_3.l_end
+    100062: middle_3.r
+    100064: middle_3.r_end
+    100066: pinky_1
+    100068: pinky_1.001
+    100070: pinky_2.l
+    100072: pinky_2.r
+    100074: pinky_3.l
+    100076: pinky_3.l_end
+    100078: pinky_3.r
+    100080: pinky_3.r_end
+    100082: ring_1.l
+    100084: ring_1.r
+    100086: ring_2.l
+    100088: ring_2.r
+    100090: ring_3.l
+    100092: ring_3.l_end
+    100094: ring_3.r
+    100096: ring_3.r_end
+    100098: thumb_1.l
+    100100: thumb_1.r
+    100102: thumb_2.l
+    100104: thumb_2.l_end
+    100106: thumb_2.r
+    100108: thumb_2.r_end
+    400000: Armature
+    400002: forearm.l
+    400004: forearm.r
+    400006: Hand.l
+    400008: Hand.r
+    400010: hand_index.l
+    400012: hand_index.r
+    400014: hand_middle.l
+    400016: hand_middle.r
+    400018: hand_pinky.l
+    400020: hand_pinky.r
+    400022: hand_ring.l
+    400024: hand_ring.r
+    400026: hand_thumb.l
+    400028: hand_thumb.r
+    400030: Hands
+    400032: //RootNode
+    400034: index_1.l
+    400036: index_1.r
+    400038: index_2.l
+    400040: index_2.r
+    400042: index_3.l
+    400044: index_3.l_end
+    400046: index_3.r
+    400048: index_3.r_end
+    400050: middle_1.l
+    400052: middle_1.r
+    400054: middle_2.l
+    400056: middle_2.r
+    400058: middle_3.l
+    400060: middle_3.l_end
+    400062: middle_3.r
+    400064: middle_3.r_end
+    400066: pinky_1
+    400068: pinky_1.001
+    400070: pinky_2.l
+    400072: pinky_2.r
+    400074: pinky_3.l
+    400076: pinky_3.l_end
+    400078: pinky_3.r
+    400080: pinky_3.r_end
+    400082: ring_1.l
+    400084: ring_1.r
+    400086: ring_2.l
+    400088: ring_2.r
+    400090: ring_3.l
+    400092: ring_3.l_end
+    400094: ring_3.r
+    400096: ring_3.r_end
+    400098: thumb_1.l
+    400100: thumb_1.r
+    400102: thumb_2.l
+    400104: thumb_2.l_end
+    400106: thumb_2.r
+    400108: thumb_2.r_end
+    2100000: Hands
+    4300000: Hands
+    9500000: //RootNode
+    13700000: Hands
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hands
+    second: {fileID: 2100000, guid: 83ea634469f8d594a896ee7c7d7e9c3b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069d1e6e348e55446bdb89ed9b833802, type: 3}
+  m_Name: M82A1 Arm settings
+  m_EditorClassIdentifier: 
+  weaponName: M82A1
+  weaponType: 1
+  weaponIcon: {fileID: 21300000, guid: 981ccabd114a26949879ecc6a9cadb07, type: 3}
+  MuzzleFlashParticlesFX: {fileID: 198738818486580698, guid: a97838465f875dd4fa7b02317e4f73e9,
+    type: 3}
+  shotSFX: {fileID: 8300000, guid: 5177f03258c2d5941860f4952de07323, type: 3}
+  reloadingSFX: {fileID: 8300000, guid: ec2d9556044ab88469527a7d8121f3d8, type: 3}
+  emptySFX: {fileID: 8300000, guid: 2f79ad7952b593347a5b597889ba9be9, type: 3}
+  shell: {fileID: 1966489215843280, guid: cb48c6e6a60258d46a9d8c21b150a9e2, type: 3}
+  shellsPoolSize: 10
+  shellEjectingForce: 1
+  damageMinimum: 200
+  damageMaximum: 300
+  rigidBodyHitForce: 10
+  fireRate: 2
+  spread: 0.01
+  recoil: {x: -8, y: 3, z: 0}
+  canUseScope: 1
+  scopeFOV: 5
+  scopeSensitivityX: 0.4
+  scopeSensitivityY: 0.4
+  meleeAttackDistance: 0
+  meleeAttackRate: 0.4
+  meleeDamagePoints: 0
+  meleeRigidbodyHitForce: 0
+  meleeHitTime: 0
+  meleeHitFX: {fileID: 0}
+  bulletInitialVelocity: 2000
+  airResistanceForce: 0.1
+  projectile: {fileID: 1385112685355120, guid: 3744e971b409ff74cacda4c9d968c48e, type: 3}
+  projectilePoolSize: 10
+  grenadePrefab: {fileID: 0}
+  throwForce: 1500

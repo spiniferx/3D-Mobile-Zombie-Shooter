@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069d1e6e348e55446bdb89ed9b833802, type: 3}
+  m_Name: Bat settings
+  m_EditorClassIdentifier: 
+  weaponName: Bat
+  weaponType: 4
+  weaponIcon: {fileID: 21300000, guid: aab3dc4f57497c848b79365d1c9bfeb7, type: 3}
+  MuzzleFlashParticlesFX: {fileID: 0}
+  shotSFX: {fileID: 8300000, guid: 88285b30a36b0da4abe59ad8e09e8987, type: 3}
+  reloadingSFX: {fileID: 0}
+  emptySFX: {fileID: 0}
+  shell: {fileID: 0}
+  shellsPoolSize: 1
+  shellEjectingForce: 0
+  damageMinimum: 0
+  damageMaximum: 0
+  rigidBodyHitForce: 5
+  fireRate: 0
+  spread: 0.01
+  recoil: {x: 2, y: 2, z: 0}
+  canUseScope: 0
+  scopeFOV: 0
+  scopeSensitivityX: 0
+  scopeSensitivityY: 0
+  meleeAttackDistance: 1.5
+  meleeAttackRate: 0.5
+  meleeDamagePoints: 60
+  meleeRigidbodyHitForce: 0
+  meleeHitTime: 0.3
+  meleeHitFX: {fileID: 8300000, guid: 1810f45aab4ab2646bb133135a70b140, type: 3}
+  bulletInitialVelocity: 360
+  airResistanceForce: 1
+  projectile: {fileID: 0}
+  projectilePoolSize: 1
+  grenadePrefab: {fileID: 0}
+  throwForce: 20

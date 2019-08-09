@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069d1e6e348e55446bdb89ed9b833802, type: 3}
+  m_Name: AR15 Arms settings
+  m_EditorClassIdentifier: 
+  weaponName: AR15
+  weaponType: 0
+  weaponIcon: {fileID: 21300000, guid: df98ff85ca3c6be469f4067838b0d2d8, type: 3}
+  MuzzleFlashParticlesFX: {fileID: 198918201244081940, guid: 46d4eddf844d2514fb79db11ee0f38e9,
+    type: 3}
+  shotSFX: {fileID: 8300000, guid: 4890ee69d4b6f5545b207a25c37a2d6d, type: 3}
+  reloadingSFX: {fileID: 8300000, guid: a17fddfb88310294e8b8663a6c4bbdbc, type: 3}
+  emptySFX: {fileID: 8300000, guid: 2f79ad7952b593347a5b597889ba9be9, type: 3}
+  shell: {fileID: 1966489215843280, guid: cb48c6e6a60258d46a9d8c21b150a9e2, type: 3}
+  shellsPoolSize: 10
+  shellEjectingForce: 0.01
+  damageMinimum: 10
+  damageMaximum: 40
+  rigidBodyHitForce: 10
+  fireRate: 0.08
+  spread: 0.2
+  recoil: {x: -1, y: 0, z: 0}
+  canUseScope: 0
+  scopeFOV: 0
+  scopeSensitivityX: 0
+  scopeSensitivityY: 0
+  meleeAttackDistance: 0
+  meleeAttackRate: 0.4
+  meleeDamagePoints: 0
+  meleeRigidbodyHitForce: 0
+  meleeHitTime: 0
+  meleeHitFX: {fileID: 0}
+  bulletInitialVelocity: 1600
+  airResistanceForce: 0.1
+  projectile: {fileID: 1385112685355120, guid: 3744e971b409ff74cacda4c9d968c48e, type: 3}
+  projectilePoolSize: 40
+  grenadePrefab: {fileID: 0}
+  throwForce: 1500
